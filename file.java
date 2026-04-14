@@ -29,7 +29,7 @@ class GFG {
         int result = binarySearch(arr, x);
         if (result == -1)
             System.out.println(
-                "Element is not present in array");
+                "Element  good boy ganga is not present in array");
         else
             System.out.println("Element is present at "
                                + "index " + result);
